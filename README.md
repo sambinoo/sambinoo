@@ -8,19 +8,19 @@
 </p>
 <div>
   <h2>2022 Goals:</h2>
-    <li>🧠 Get comfortable with Github and Git</li>
-    <li>:pie: Build something using my Raspberry Pi</li>
-    <li>:gear: Automate as much as I can</li>
-    <li>:snake: Upskill in Python and SQL</li>
-    <li>🌐 Build my personal website > resume</li>
-    <li>:two: Create a second brain on Github</li>
+    <p>🧠 Get comfortable with Github and Git</p> 
+    <p>:pie: Build something using my Raspberry Pi</p>
+    <p>:gear: Automate as much as I can</p> 
+    <p>:snake: Upskill in Python and SQL</p>
+    <p>🌐 Build my personal website > resume</p> 
+    <p>:two: Create a second brain on Github</p>
     </div>
  <div>
   <h2>My interests include:</h2>
-  <li>🔵 Brazilian Jiu Jitsu</li>
-  <li>🧱 Building Star Wars Lego sets</li>
-  <li>📉 Web3, Crypto & NFTs</li>
-  <li>📚 Reading Sci-fi</li>
+  <p>🔵 Brazilian Jiu Jitsu</p>  
+  <p>🧱 Building Star Wars Lego sets</p>
+  <p>📉 Web3, Crypto & NFTs</p> 
+  <p>📚 Reading Sci-fi</p>
 </div>
   
 <h2 align=center>Let's connect!<h2>
