@@ -8,12 +8,13 @@
 </p>
 <div>
   <h2>2022 Goals:</h2>
-    <li>🧠 Get comfortable with Github and Git</li>
-    <li>:pie: Build something using my Raspberry Pi</li>
-    <li>:gear: Automate as much as I can</li>
-    <li>:snake: Upskill in Python and SQL</li>
+    <li>🧠 Complete Github Skills</li>
+    <li>:snake: Complete an Intro to Python course </li>
+    <li>:gear: Write 3 scripts to automate simple tasks</li>
     <li>🌐 Build my personal website > resume</li>
     <li>:two: Create a second brain on Github</li>
+    <li>:pie: Build something using my Raspberry Pi</li>
+    <li>:book: Finish reading Bitcoin Billionaires, Voices from the Valley, and start reading Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains. 
     </div>
  <div>
   <h2>My interests include:</h2>
