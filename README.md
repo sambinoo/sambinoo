@@ -1,6 +1,6 @@
 <h1 align=center>Heyo, my name is Sam!</h1>
 <p align=center>
- 🌱 I am a husband, Web3 pioneer, and just began my journey as a student in Computer Science!
+ 🌱 I currently work in the crypto industry as a product specialist with a goal improving my technical skillset and become a software engineer. 
  </p>
  <p align=center>
 🔎 I am here to build fun stuff and learn 
@@ -10,6 +10,7 @@
     <li>🧠 Complete my first college CS course</li>
     <li>🌐 Build my personal website > resume</li>
     <li>:pie: Build something using my Raspberry Pi</li>
+    <li>🧰 Contribute to the Mobile app development team at OSU</li>
     </div>
  <div>
   <h2>My interests include:</h2>
