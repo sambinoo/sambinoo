@@ -10,7 +10,8 @@
     <li>🧠 Complete my first college CS course</li>
     <li>🌐 Build my personal website > resume</li>
     <li>:pie: Build something using my Raspberry Pi</li>
-    <li>🧰 Contribute to the Mobile app development team at OSU</li>
+    <li>🧰 Contribute to term project, AI Chatbot on the Mobile app development club at OSU</li>
+    <li>💻 Start HackerRank training and challenges for Python</li>
     </div>
  <div>
   <h2>My interests include:</h2>
