@@ -1,24 +1,22 @@
 <h1 align=center>Heyo, my name is Sam!</h1>
 <p align=center>
- 🌱 I currently work in the crypto industry as a product specialist with a goal improving my technical skillset and become a software engineer. 
+ 🌱 With a foundation in cross-functional collaboration and a commitment to enhancing the user experience, I am seeking to leverage my expertise in technical support and leadership to contribute within an innovative and high performing team as a support engineer.
  </p>
  <p align=center>
-🔎 I am here to build fun stuff and learn 
+🔎 I am here to break stuff and learn 
 </p>
 <div>
-  <h2>2023 Goals:</h2>
-    <li>🧠 Complete my first college CS course</li>
-    <li>🌐 Build my personal website > resume</li>
-    <li>:pie: Build something using my Raspberry Pi</li>
-    <li>🧰 Contribute to term project, AI Chatbot on the Mobile app development club at OSU</li>
-    <li>💻 Start HackerRank training and challenges for Python</li>
+  <h2>What am I doing in 2024?</h2>
+    <li>🧠 Completing Year 1 of my post-bacc Computer Science degree</li>
+    <li>🌐 Build a personal website to showcase my experience, work, and hobbies</li>
+    <li>💻 Continue HackerRank training and challenges for Python, begin Web Development challenges</li>
     </div>
  <div>
   <h2>My interests include:</h2>
   <li>🔵 Brazilian Jiu Jitsu</li>
   <li>🧱 Building Gundam model kits</li>
-  <li>📉 Web3, Crypto & NFTs</li>
-  <li>📚 Reading Sci-fi</li>
+  <li>📉 Web3, Cryptocurrency and DAOs</li>
+  <li>📚 Reading Sci-fi & Fantasy</li>
 </div>
   
 <h2 align=center>Let's connect!<h2>
